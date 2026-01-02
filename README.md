@@ -19,11 +19,11 @@ Instead of writing complex SQL joins, users can simply ask:
 
 **1. Data Visualization (Automatic Charts)**
 
-![Visualization Demo](screenshots/chart_demo.png)
+![Visualization Demo](Images/Img_1.png)
 
 **2. Data Retrieval (Tabular View)**
 
-![Table Demo](screenshots/table_demo.png)
+![Table Demo](Images/Img__2.png)
 
 ---
 
@@ -59,6 +59,6 @@ Instead of writing complex SQL joins, users can simply ask:
 **1. Clone the Repository**
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/talk-to-data.git
+git clone [https://github.com/mohamedelsaka11/Talk-to-Data.git]
 cd talk-to-data
 ```
