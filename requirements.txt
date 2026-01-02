@@ -1,0 +1,11 @@
+# Database
+SQLAlchemy>=2.0.22
+
+# LangChain (latest stable version)
+langchain>=0.0.350
+
+# Streamlit for UI
+streamlit>=1.24.1
+
+# Utilities
+regex>=2023.10.23
